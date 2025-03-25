@@ -9,8 +9,8 @@ cd semantic-kernel-demo
 
 Install python 3. Please use python 3.12 or newer. Semantic Kernel has problems with older versions. `https://formulae.brew.sh/formula/python@3.13`
 ```bash
-	brew install python@3.13
-	python3 -m ensurepip --upgrade
+brew install python@3.13
+python3 -m ensurepip --upgrade
 ```
 
 ```bash 
