@@ -1,0 +1,3 @@
+semantic-kernel
+pydantic
+semantic-kernel.connectors.ai.function-choice-behavior
