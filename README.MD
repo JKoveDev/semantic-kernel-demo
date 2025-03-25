@@ -16,7 +16,7 @@ python3 -m ensurepip --upgrade
 ```bash 
 python3 -m venv venv
 
-Activate venv and install semantic-kernel
+# Activate venv and install semantic-kernel
 source venv/bin/activate
 pip3 install semantic-kernel
 ```
