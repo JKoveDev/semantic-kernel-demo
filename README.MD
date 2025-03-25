@@ -8,7 +8,7 @@ python3 -m venv venv
 
 # activate 
 source venv/bin/activate
-pip install semantic-kernel
+pip3 install semantic-kernel
 ```
 
 ```bash
