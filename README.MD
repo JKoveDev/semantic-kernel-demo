@@ -7,7 +7,12 @@ git clone https://github.com/JKoveDev/semantic-kernel-demo.git
 cd semantic-kernel-demo
 ```
 
-please use python 3.12 or newer. Semantic Kernel has problems with older versions.
+Install python 3. Please use python 3.12 or newer. Semantic Kernel has problems with older versions. `https://formulae.brew.sh/formula/python@3.13`
+```bash
+	brew install python@3.13
+	python3 -m ensurepip --upgrade
+```
+
 ```bash 
 python3 -m venv venv
 
